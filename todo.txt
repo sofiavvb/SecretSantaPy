@@ -1,0 +1,14 @@
+[] -> Colocar o projeto no git
+
+[] -> Iniciar lógica do amigo secreto em si
+
+[] -> Aprender como fazer para mandar email com o nome do sorteado
+
+[] -> Tratamento de excessões
+    - garantir email valido
+    - pelo menos duas pessoas para o sorteio
+
+[] -> Pensar e estudar uma possível interface
+
+[] -> Buscar um nome melhor para o projeto
+

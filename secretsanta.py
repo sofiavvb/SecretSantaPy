@@ -14,8 +14,11 @@ def main():
         elif choice == "2":
             display_participants(participants)
         elif choice == "3":
-            secret_santa(participants)
-            break
+            if len(participants) >= 2:
+                secret_santa(participants)
+                break
+            else:
+                print("É preciso pelo menos dois participantes no amigo secreto! Tente Novamente!")
 
 if __name__ == "__main__":
     main()
