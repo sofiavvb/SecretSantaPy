@@ -1,8 +1,8 @@
-[] -> Colocar o projeto no git
+[X] -> Colocar o projeto no git
 
-[] -> Iniciar lógica do amigo secreto em si
+[X] -> Iniciar lógica do amigo secreto em si
 
-[] -> Aprender como fazer para mandar email com o nome do sorteado
+[X] -> Aprender como fazer para mandar email com o nome do sorteado
 
 [] -> Tratamento de excessões
     - garantir email valido
